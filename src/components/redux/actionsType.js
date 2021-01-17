@@ -1,0 +1,6 @@
+export const showLoader = 'showLoader'
+export const hideLoader = 'hideLoader'
+export const getRequest = 'getRequest'
+export const hideAlert = 'hideAlert'
+export const showAlert = 'showAlert'
+export const clear = 'clear'
